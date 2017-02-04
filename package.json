@@ -1,0 +1,22 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "description": "LeanCloud Icon System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leancloud/icons.git"
+  },
+  "keywords": [
+    "leancloud"
+  ],
+  "author": "Tunghsiao Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leancloud/icons/issues"
+  },
+  "homepage": "https://github.com/leancloud/icons#readme"
+}
