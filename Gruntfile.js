@@ -24,6 +24,8 @@ module.exports = function(grunt) {
           template: 'src/_template.css',
           htmlDemo: true,
           htmlDemoTemplate: 'src/_template.html',
+          htmlDemoFilename: 'index',
+          destHtml: './',
           stylesheet: 'less',
           relativeFontPath: '../fonts/',
           engine: 'fontforge',
